@@ -1,5 +1,6 @@
 # niceKnowledge
 ### A Place to share knowledge
-![](giphy.com/embed/bn7hlyp0Cmcg0)
+
+![](http://i.imgur.com/SWoGYMR.gif)
 
 ## Content
