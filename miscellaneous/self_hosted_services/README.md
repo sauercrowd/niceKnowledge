@@ -18,4 +18,4 @@
 |Groovebasin    |Music player server with web interface |[Demo](http://demo.groovebasin.com/)       |https://github.com/andrewrk/groovebasin  |
 |Ghost          |A Markdown blogging platform           |[Demo](https://ghost.org/)                 |https://github.com/TryGhost/Ghost        |
 |Mattermost     |Open source Slack-alternative          |                                           |https://github.com/mattermost/platform   |
-|Rocket Chat    |Yet another Open source Slack-alternative|    |                                       https://github.com/RocketChat/Rocket.Chat|
+|Rocket Chat    |Yet another Open source Slack-alternative|[Demo](https://demo.rocket.chat/home)|                                       https://github.com/RocketChat/Rocket.Chat|
