@@ -8,7 +8,7 @@
 |Davros         |Dropbox like file sharing              |[Demo](https://oasis.sandstorm.io/appdemo/8aspz4sfjnp8u89000mh2v1xrdyx97ytn8hq71mdzv4p4d8n0n3h)    |https://github.com/mnutt/davros/         |
 |Ethercalc      |Web based spreadsheets                 |[Demo](https://www.ethercalc.org/_new)     |https://github.com/audreyt/ethercalc     |
 |SandForms      |a free software forms application      |                                           |https://github.com/sandforms/sandforms   |
-|Paperwork      |Self hosted alternative to OneNote     |                                           |https://github.com/twostairs/paperwork   |
+|Paperwork      |Self hosted alternative to OneNote     |[Demo](https://oasis.sandstorm.io/appdemo/vxe8awcxvtj6yu0vgjpm1tsaeu7x8v8tfp71tyvnm6ykkephu9q0)                              |https://github.com/twostairs/paperwork   |
 |Dillinger      |Markdown Editor                        |[Demo](http://dillinger.io/)               |https://github.com/joemccann/dillinger   |
 |Telescope      |discuss and share links in realtime    |[Demo](http://demo2.telescopeapp.org/)     |https://github.com/TelescopeJS/Telescope |
 |Laverna        |Markdown Note Taking                   |[Demo](https://laverna.cc/app/)            |https://github.com/Laverna/laverna       |
