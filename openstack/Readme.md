@@ -6,3 +6,4 @@
 
 ## Links
 - [Official Page](http://www.openstack.org/)
+- [Install OpenStack on Ubuntu](http://docs.openstack.org/liberty/install-guide-ubuntu/)
