@@ -9,3 +9,5 @@
 - OpenGPG Public Keys
   - [Jonas Otten (jonasotten@posteo.de)](keys/jonasotten_posteo-de.asc)
 - [Miscellaneous](miscellaneous)
+
+![http://i.imgur.com/hgzD5oe.png?1]()
