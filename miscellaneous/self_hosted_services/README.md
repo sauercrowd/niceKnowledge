@@ -18,3 +18,5 @@
 |Groovebasin    |Music player server with web interface |[Demo](http://demo.groovebasin.com/)       |https://github.com/andrewrk/groovebasin  |
 |Ghost          |A Markdown blogging platform           |[Demo](https://ghost.org/)                 |https://github.com/TryGhost/Ghost        |
 |Mattermost     |Open source Slack-alternative          |                                           |https://github.com/mattermost/platform   |
+|Seafile        |Dropbox-like alternative               |[Demo](https://seacloud.cc/demo)           |https://github.com/haiwen/seafile        |
+|Owncloud       |Replacement for various Google Products|[Demo](https://demo.owncloud.org/)         |https://github.com/owncloud              |
