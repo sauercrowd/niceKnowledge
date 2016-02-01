@@ -6,7 +6,7 @@
 ## Content
 - [OpenStack](openstack)
 - [Embedded Devices](embedded_devices)
-- [OpenVPN](openvpn)
+- [VPN](vpn)
 - [Amazon AWS](aws)
 - [Digital Ocean](digitalocean)
 - [Emulation](emulation)
