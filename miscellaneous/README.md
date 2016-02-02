@@ -10,4 +10,4 @@
 
 ## Interesting tools
 - [Asciinema - record your terminal](https://asciinema.org/)
-- [DevOps Wiki](https://github.com/Leo-G/DevopsWiki)
+- [DevOps Wiki on github](https://github.com/Leo-G/DevopsWiki)
