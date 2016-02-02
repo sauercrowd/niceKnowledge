@@ -6,6 +6,7 @@
 - [Network](network)
 - [Infrastructure as a Service](IaaS)
 - [Virtualization](Virtualization)
+- [Videos/Talks](videos)
 - OpenGPG Public Keys
   - [Jonas Otten (jonasotten@posteo.de)](keys/jonasotten_posteo-de.asc)
 - [Miscellaneous](miscellaneous)
