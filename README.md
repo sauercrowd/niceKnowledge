@@ -4,12 +4,11 @@
 ![](http://i.imgur.com/SWoGYMR.gif)
 
 ## Content
-- [OpenStack](openstack)
+- [The Cloud:cloud:](cloud)
 - [Embedded Devices](embedded_devices)
-- [OpenVPN](openvpn)
-- [Amazon AWS](aws)
-- [Digital Ocean](digitalocean)
+- [Network](network)
+- [Infrastructure As a Service](IaaS)
+- [Virtualization](Virtualization)
 - OpenGPG Public Keys
   - [Jonas Otten (jonasotten@posteo.de)](keys/jonasotten_posteo-de.asc)
 - [Miscellaneous](miscellaneous)
-
