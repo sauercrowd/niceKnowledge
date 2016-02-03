@@ -7,7 +7,10 @@
 - Free Domain Name Services
   - https://freedns.afraid.org/domain/registry/
   - https://pagekite.net/
+- [DevOps Wiki on github](https://github.com/Leo-G/DevopsWiki)
 
 ## Interesting tools
 - [Asciinema - record your terminal](https://asciinema.org/)
-- [DevOps Wiki on github](https://github.com/Leo-G/DevopsWiki)
+- [xrdp - An RDP Server for Linux](http://www.xrdp.org/)
+- [Remmina - A GUI for Managing remote connections](https://wiki.ubuntuusers.de/Remmina/)
+- [Rdesktop - Command line RDP Client](https://wiki.ubuntuusers.de/rdesktop/)
