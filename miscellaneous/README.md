@@ -19,4 +19,5 @@
 
 
 ## Random Stuff
+- Sorting algorithms
 ![](http://i.imgur.com/fq0A8hx.gif)
