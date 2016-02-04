@@ -6,10 +6,11 @@
 - [Embedded Devices](embedded_devices)
 - [Emulation](emulation)
 - [Infrastructure as a Service](IaaS)
-- [Kernel](kernel)
+- [Linux Kernel](kernel)
 - [Keys](keys)
 - [Network](network)
 - [Miscellaneous](miscellaneous)
+- [Microcontrollers](microcontrollers)
 - [Videos/Talks](videos)
 - [Virtualization](Virtualization)
 
