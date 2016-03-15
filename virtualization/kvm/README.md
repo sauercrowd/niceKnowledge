@@ -40,3 +40,4 @@ Helpful links to get Windows Guest OS on Ubuntu
 * [VM](http://serverfault.com/questions/703675/install-windows-2012-r2-over-kvm-virtualizaton)
 * [Settings](https://me.m01.eu/blog/2015/03/windows-10-kvm-and-iscsi/)
 * [virtio Driver](https://launchpad.net/kvm-guest-drivers-windows/+download)
+* [Simple Qemu Tutorial](qemu_tutorial.md)
