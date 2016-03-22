@@ -41,3 +41,4 @@ Helpful links to get Windows Guest OS on Ubuntu
 * [Settings](https://me.m01.eu/blog/2015/03/windows-10-kvm-and-iscsi/)
 * [virtio Driver](https://launchpad.net/kvm-guest-drivers-windows/+download)
 * [Tutorial](http://www.funtoo.org/Windows_7_Virtualization_with_KVM)
+* [Simple Qemu Tutorial](qemu_tutorial.md)
